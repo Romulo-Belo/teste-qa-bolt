@@ -7,7 +7,7 @@ Observação: **Limitações Temporais do Teste**
 **Atualizações Posteriores:** Não monitoradas após a data de execução
 **Validade:** Resultados válidos para o estado do sistema em 12/09/2025
 
-**Nota:** Para validação de correções implementadas após 12/09/2025, será necessário novo ciclo de testes.
+**Nota:** Para validação de correções implementadas após 12 de Setembro de 2025, será necessário novo ciclo de testes.
 ---
 
  **Informações do Teste**

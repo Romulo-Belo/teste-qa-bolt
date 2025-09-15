@@ -18,27 +18,27 @@ Observação: **Limitações Temporais do Teste**
 - **Ambiente:** Chrome, Firefox, Dispositivo Mobile
 
 ARQUIVOS
-Relatório_de_bug_CT001.pdf
+Relatório_de_bug_CT001.pdf --
 Bug report detalhado com passos para reprodução, resultado esperado/obtido e severidade.
 
 
-Casos Teste Exploratórios_Menu Institucional.xlsx
+Casos Teste Exploratórios_Menu Institucional.xlsx --
 Planilha de testes exploratórios feitos no menu institucional, com ações realizadas, observações e bugs encontrados.
 
 
-Casos de Teste_Menu Institucional.feature.pdf
+Casos de Teste_Menu Institucional.feature.pdf --
 Cenários escritos em BDD/Gherkin cobrindo os links do menu institucional.
 
 
-LEIA-ME.md
+LEIA-ME.md --
 Arquivo de orientação sobre os documentos do repositório.
 
 
-Registro de bug no Menu Institucional.pdf
+Registro de bug no Menu Institucional.pdf --
 Lista de bugs encontrados no menu institucional, com descrição, passos, severidade e prioridade.
 
 
-TESTE EXPLORATÓRIO E POSSÍVEIS MELHORIAS - BOLT.pdf
+TESTE EXPLORATÓRIO E POSSÍVEIS MELHORIAS - BOLT.pdf --
 Relatório de exploração da página Bolt com problemas identificados e sugestões de melhoria.
 
 ---
